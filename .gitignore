@@ -1,3 +1,5 @@
 .vs/
-Builds/
+.idea/
 obj/
+bin/
+build/
